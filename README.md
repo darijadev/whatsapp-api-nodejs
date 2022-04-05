@@ -6,7 +6,7 @@ whatsapp API created using nodejs and whatsapp-web.js
 clone the repo:
 
 ```bash
-https://github.com/darijadev/whatsapp-api-nodejs.git
+git clone https://github.com/darijadev/whatsapp-api-nodejs.git
 ```
 
 cd into the folder
