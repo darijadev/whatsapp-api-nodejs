@@ -1,0 +1,5 @@
+#session folder
+/.wwebjs_auth
+
+#node modules folder
+/node_modules
